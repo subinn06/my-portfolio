@@ -1,0 +1,35 @@
+.resume {
+  padding: 100px 80px;
+  background: #fff;
+  text-align: center;
+}
+
+.resume h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+  color: #413c3c;
+}
+
+.resume p {
+  font-size: 18px;
+  color: #413c3c;
+  margin-bottom: 30px;
+}
+
+.download-btn {
+  background: #f9f7f7;
+  color: #413c3c;
+  padding: 14px 28px;
+  border-radius: 12px;
+  font-weight: bold;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  background: #4d43bf;
+  color: #fff;
+}
